@@ -1,6 +1,6 @@
-import { TestBed } from '@angular/core/testing';
+import {TestBed} from '@angular/core/testing';
 
-import { HttpclientService } from './httpclient.service';
+import {HttpclientService} from './httpclient.service';
 
 describe('HttpclientService', () => {
   beforeEach(() => TestBed.configureTestingModule({}));
